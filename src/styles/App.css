@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  --font-14-22: 14px/22px 'Open Sans';
+  --font-16-24: 16px/24px 'Open Sans';
+  --marg-vert-24: 24px 0;
+}
+
+.App{
+  font-family: 'Open Sans', sans-serif;
+}
+

@@ -1,0 +1,11 @@
+.MyButton {
+    display: block;
+    width: 360px;
+    height: 40px;
+    border:none;
+    border-radius: 2px;
+}
+
+.MyButtonText{
+    margin:8px auto;
+}
